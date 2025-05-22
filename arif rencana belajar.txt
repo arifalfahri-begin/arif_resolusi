@@ -1,8 +1,8 @@
 - Excel
   * Fungsi-fungsi
   * Pivot Table
-  * Conditional Formatting
-  * Formula
+  * VLOOKUP dan HLOOKUP
+  * Conditional Chart
 - SQL
 - Tableu
 - Power BI
