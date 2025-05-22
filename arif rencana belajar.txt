@@ -6,6 +6,5 @@
 - SQL
 - Tableu
 - Power BI
-- SPSS
 - R
 - Python
