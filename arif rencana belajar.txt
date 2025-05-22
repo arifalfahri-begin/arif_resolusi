@@ -1,4 +1,6 @@
 - Excel
+  * Fungsi-fungsi
+  * Pivot Table
 - SQL
 - Tableu
 - Power BI
