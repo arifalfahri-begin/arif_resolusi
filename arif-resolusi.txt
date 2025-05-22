@@ -2,3 +2,5 @@ ARIF RESOLUSI
 - Konsisten Untuk Belajar Excel dan SQL
 - Konsisten untuk memahami Data menjadi Insight yang berguna
 - Ikut forum diskusi untuk update informasi
+- Belajar Python
+- Mengasah Understanding Business
