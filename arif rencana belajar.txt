@@ -1,9 +1,10 @@
 - Excel
   * Fungsi-fungsi
   * Pivot Table
+  * Conditional Formatting
+  * Formula
 - SQL
 - Tableu
 - Power BI
-- SPSS
 - R
 - Python
